@@ -20,6 +20,20 @@ Our application is an online food ordering and delivery platform named “SendAS
   <img  src="./imgs/architecture.png">
 </p>
 
+## Deployment
+
+Our services are deployed in the Azure Web Services in the following addresses:
+
+### Core
+
+* **Backend**: 20.77.90.223:8080 
+* **Frontend**: 20.77.90.223:3000
+
+### Service
+
+* **Backend**: 20.77.90.223:8081
+* **Frontend**: 20.77.90.223:3001
+
 ## Technologies Used
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React " width="50" height="50"/>&nbsp;
